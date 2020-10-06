@@ -1,7 +1,9 @@
 # D3-Challenge
 
 Notes:
-- In future, add state level data chart that fills with the selected state level information
+- This should correctly on launching; however, if not, please refresh screen and it shoudl load properly.  I started to have general problems with my internet browser that affected the live server loading correctly on the initial launch.
+- Changes to incorporate in the future:  (1) try to simplify code; this seems overly complex.  (2) Try to add a state level data chart to the side of the graph or paragraph that fills with the selected state level information
+
 
 10/5:
 - Add third variable to x- and y-axes
